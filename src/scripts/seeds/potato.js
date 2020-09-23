@@ -1,9 +1,8 @@
+export const createPotato = () => {
 const potato = {
     name: "Potato",
-    height: "Height: 32",
-    output: "Output: 2"
-};
-
-export const createPotato = () => {
+    height: 32,
+    output: 2
+    }
     return potato;
 };

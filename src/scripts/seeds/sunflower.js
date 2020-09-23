@@ -1,9 +1,8 @@
-const sunFlower = {
+export const createSunFlower = () 
+    const sunFlower = {
     name: "Sunflower",
-    height: "Height: 380",
-    output: "Output: 3"
-};
-
-export const createSunFlower = () => {
+    height: 380,
+    output: 3
+    }
     return sunFlower;
 };

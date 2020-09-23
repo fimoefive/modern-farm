@@ -1,17 +1,10 @@
-const corn = [
+export const createCorn = () => {
+    const corn = [
     {
     name: "Corn",
-    height: "Height: 180",
-    output: "Output: 6",
-},
-{
-    name: "Corn",
-    height: "Height: 180",
-    output: "Output: 6"
-} 
-];
-
-
-export const createCorn = () => {
+    height: 180,
+    output: 6,
+    },
+]
     return corn;
 };
