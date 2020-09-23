@@ -1,4 +1,4 @@
-export const createSunFlower = () 
+export const createSunFlower = () => {
     const sunFlower = {
     name: "Sunflower",
     height: 380,

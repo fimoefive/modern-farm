@@ -1,8 +1,9 @@
 
-export const Asparagus = {
+export const createAsparagus = () {
+    const Asparagus = {
     name: "Asparagus",
     height: 24,
     output: 4
-    }
- return Asparagus 
+    };
+ return Asparagus;
 };
