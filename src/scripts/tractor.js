@@ -7,9 +7,9 @@ import { createWheat } from "./seeds/wheat.js";
 import {addPlant, usePlants} from "./field.js";
 
 
-export const plantSeeds = (plantArray) => {
-for(const plantRows of planArray) {
-    for(const row of plantRows) {
+export const plantSeeds = (planArray) => {
+for(let plantRows of planArray) {
+    for(let row of plantRows) {
 
         if (row === "Asparagus") {
         const asparagusSeed = createAsparagus();

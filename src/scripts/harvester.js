@@ -1,3 +1,10 @@
+
+let seedArray = [];
+
+const seedCollection = (plantObj) => {
+    
+}
+
 {
     type: "Peanut",
     height: 30,
