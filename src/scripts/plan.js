@@ -12,9 +12,7 @@ export const createPlan = () => {
     }
 
     return plan
-}
-
-
+};
 
 
 /*

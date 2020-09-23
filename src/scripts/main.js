@@ -3,7 +3,6 @@ import {addPlant, usePlants} from "./field.js";
 
 
 
-
 addPlant(asparagusSeed);
 addPlant(soyBeanSeed);
 addPlant(cornSeed);
