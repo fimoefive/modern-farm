@@ -5,7 +5,9 @@ const seedCollection = (plantObj) => {
     for()
 }
 
-
+export const harvestPlants = () => {
+    
+}
 
 
 {
