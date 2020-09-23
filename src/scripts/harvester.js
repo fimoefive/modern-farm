@@ -2,8 +2,11 @@
 let seedArray = [];
 
 const seedCollection = (plantObj) => {
-    
+    for()
 }
+
+
+
 
 {
     type: "Peanut",
